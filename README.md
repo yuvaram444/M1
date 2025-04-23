@@ -1,4 +1,4 @@
-'''
+
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -32,8 +32,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
 
-'''
-'''
+
 # EX-02- Conditional-Statements
 ## AIM:
 Write a C program to read A values and check whether A is positive number or not.
@@ -62,8 +61,8 @@ Write a C program to read A values and check whether A is positive number or not
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
- '''
- '''
+ 
+ 
  
 
 
@@ -94,9 +93,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
- 
-'''
-'''
+
 
 
 
@@ -129,12 +126,10 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
-'''
-'''
 
 
 
-		# EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
+# EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
 ## AIM:
 To write a C program that reads marks of three subjects, calculates the total and percentage, and then determines the division (First, Second, Pass, or Fail) based on the percentage and minimum marks criteria.
 ## ALGORITHM:
@@ -153,10 +148,8 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 ## PROGRAM:
 
-## SAMPLE INPUT:
-
-## SAMPLE OUTPUT:
+## OUTPUT:
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
-'''
+
